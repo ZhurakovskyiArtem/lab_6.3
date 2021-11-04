@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\lab_6.3\lab_6.3\Source.cpp(42,3): error C3861: 'QuickSort': identifier not found
+C:\Users\Admin\source\repos\lab_6.3\lab_6.3\Source.cpp(42,3): message : 'QuickSort': function was not declared in the template definition context and can be found only via argument-dependent lookup in the instantiation context
+C:\Users\Admin\source\repos\lab_6.3\lab_6.3\Source.cpp(81): message : see reference to function template instantiation 'T QuickSort1<int>(T *,T,T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\source\repos\lab_6.3\lab_6.3\Source.cpp(44,3): error C3861: 'QuickSort': identifier not found
+C:\Users\Admin\source\repos\lab_6.3\lab_6.3\Source.cpp(44,3): message : 'QuickSort': function was not declared in the template definition context and can be found only via argument-dependent lookup in the instantiation context
